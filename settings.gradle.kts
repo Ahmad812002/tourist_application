@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "tourist_application"
 include(":app")
+include(":admin_page")
